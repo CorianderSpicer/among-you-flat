@@ -2,8 +2,8 @@ AMONG YOU
 =========
 
 Play it: double-click index.html.
-Fullscreen: the button on the main menu, or Settings > Graphics > Fullscreen,
-or the Fullscreen button in the pause menu (Esc). F11 also works on desktop.
+Fullscreen: button on the main menu, Settings > Fullscreen, or the pause menu (Esc). F11 on desktop.
+Vents: once inside a vent, the VENT NETWORK panel appears — tap a destination to travel.
 
 Put it online (GitHub Pages):
 1. Upload index.html to a GitHub repo.
